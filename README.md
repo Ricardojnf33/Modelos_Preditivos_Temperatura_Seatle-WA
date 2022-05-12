@@ -6,7 +6,7 @@
 
 ## Overview
 
-Foi solicitado como projeto da cadeira Modelos Preditivos, treinar regressores baseados em Árvores de Decisão / Random Forest / GradientBooster / PLSRegression para predizer a temperatura máxima do dia seguinte em Seattle-WA, encontrando os melhores valores para os principais parâmetros dos modelos, utilizando validação cruzada.
+Foi solicitado como projeto da cadeira Modelos Preditivos, treinar regressores baseados em Árvores de Decisão / Random Forest / GradientBooster / PLSRegression para predizer a temperatura máxima do dia seguinte em Seattle-WA, encontrando os melhores valores para os principais parâmetros dos modelos, utilizando GridSearchCV e validando com validação cruzada.
 
 ## Dependencies
 
